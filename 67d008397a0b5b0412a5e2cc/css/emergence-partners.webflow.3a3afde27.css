@@ -1,4 +1,4 @@
-html {
+﻿html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   font-family: sans-serif;
@@ -2091,7 +2091,7 @@ textarea.w-input, textarea.w-select {
 
 .w-checkbox-input--inputType-custom.w--redirected-checked {
   background-color: #3898ec;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg");
+  background-image: url("../../static/custom-checkbox-checkmark.589d534424.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4697,7 +4697,7 @@ figcaption {
 .section_article-hero {
   color: #fff;
   background-color: #000;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg"), url("https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d5900083c0ed0c6cd3e9ba_blog-unify%402x.jpg");
+  background-image: url("../../img/background-image.svg"), url("../67d5900083c0ed0c6cd3e9ba_blog-unify@2x.jpg");
   background-position: 0 0, 50%;
   background-size: cover, auto;
   flex-flow: column;
@@ -4863,7 +4863,7 @@ figcaption {
   text-align: center;
   letter-spacing: -.02em;
   background-color: #203e3d08;
-  background-image: url("https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d59ce195de9f50151307c2_%E2%80%9D.svg"), url("https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d59ce195de9f50151307c3_%E2%80%9C.svg");
+  background-image: url("../67d59ce195de9f50151307c2_”.svg"), url("../67d59ce195de9f50151307c3_“.svg");
   background-position: 0 2px, 0 0;
   background-repeat: no-repeat, no-repeat;
   background-size: auto, auto;
@@ -6819,56 +6819,56 @@ figcaption {
 
 @font-face {
   font-family: 'Tobias Trial VF';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac411de15f0feea38705_TobiasTRIALVF-Uprights.woff2') format('woff2');
+  src: url('../67d0ac411de15f0feea38705_TobiasTRIALVF-Uprights.woff2') format('woff2');
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Tobias Trial VF';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0acc44ea579e2a06164e4_TobiasTRIALVF-Italics.woff2') format('woff2');
+  src: url('../67d0acc44ea579e2a06164e4_TobiasTRIALVF-Italics.woff2') format('woff2');
   font-weight: 100 900;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'PP Neue Montreal';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82fcf236b9facadcfd_PPNeueMontreal-Italic.woff2') format('woff2');
+  src: url('../67d0ac82fcf236b9facadcfd_PPNeueMontreal-Italic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'PP Neue Montreal';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82b75a37298eb38cdb_PPNeueMontreal-Book.woff2') format('woff2');
+  src: url('../67d0ac82b75a37298eb38cdb_PPNeueMontreal-Book.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'PP Neue Montreal';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82391415355e967f74_PPNeueMontreal-Bold.woff2') format('woff2');
+  src: url('../67d0ac82391415355e967f74_PPNeueMontreal-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'PP Neue Montreal';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82922c79de55eaee1d_PPNeueMontreal-Thin.woff2') format('woff2');
+  src: url('../67d0ac82922c79de55eaee1d_PPNeueMontreal-Thin.woff2') format('woff2');
   font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'PP Neue Montreal';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82c67c3b32906be51e_PPNeueMontreal-Medium.woff2') format('woff2');
+  src: url('../67d0ac82c67c3b32906be51e_PPNeueMontreal-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'PP Neue Montreal';
-  src: url('https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82ea8607851b0f3394_PPNeueMontreal-SemiBolditalic.woff2') format('woff2');
+  src: url('../67d0ac82ea8607851b0f3394_PPNeueMontreal-SemiBolditalic.woff2') format('woff2');
   font-weight: 600;
   font-style: italic;
   font-display: swap;

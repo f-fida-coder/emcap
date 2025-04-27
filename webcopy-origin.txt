@@ -1,0 +1,1900 @@
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\@finsweet\attributes-cmsfilter@1\cmsfilter.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-readtime@1/readtime.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\@finsweet\attributes-readtime@1\readtime.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/TextPlugin.min.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\gsap@3.12.7\dist\TextPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/macy@2
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\macy@2
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/split-type@0.3.4/umd/index.min.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\split-type@0.3.4\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\npm\swiper@11\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac411de15f0feea38705_TobiasTRIALVF-Uprights.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac411de15f0feea38705_TobiasTRIALVF-Uprights.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82391415355e967f74_PPNeueMontreal-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac82391415355e967f74_PPNeueMontreal-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82922c79de55eaee1d_PPNeueMontreal-Thin.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac82922c79de55eaee1d_PPNeueMontreal-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82b75a37298eb38cdb_PPNeueMontreal-Book.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac82b75a37298eb38cdb_PPNeueMontreal-Book.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82c67c3b32906be51e_PPNeueMontreal-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac82c67c3b32906be51e_PPNeueMontreal-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82ea8607851b0f3394_PPNeueMontreal-SemiBolditalic.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac82ea8607851b0f3394_PPNeueMontreal-SemiBolditalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0ac82fcf236b9facadcfd_PPNeueMontreal-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0ac82fcf236b9facadcfd_PPNeueMontreal-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0acc44ea579e2a06164e4_TobiasTRIALVF-Italics.woff2
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0acc44ea579e2a06164e4_TobiasTRIALVF-Italics.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0c4a4dde15af83ab4c36a_EC-Favicon.32x32.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0c4a4dde15af83ab4c36a_EC-Favicon.32x32.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d0c67d59c6f2b44143fa55_EC-Favicon.32x32-dark.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d0c67d59c6f2b44143fa55_EC-Favicon.32x32-dark.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d5900083c0ed0c6cd3e9ba_blog-unify%402x.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d5900083c0ed0c6cd3e9ba_blog-unify@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d59ce195de9f50151307c2_”.svg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d59ce195de9f50151307c2_”.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d59ce195de9f50151307c3_“.svg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d59ce195de9f50151307c3_“.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d978ee2b7e001ae19cd3a6_EC-Favicon.32x32.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d978ee2b7e001ae19cd3a6_EC-Favicon.32x32.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/67d978f47d0f1f5ef818366b_EC-Apple Image.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\67d978f47d0f1f5ef818366b_EC-Apple Image.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/css/emergence-partners.webflow.3a3afde27.css
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\css\emergence-partners.webflow.3a3afde27.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/js/webflow.7742aef8.c3e581d476c2a6a5.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\js\webflow.7742aef8.c3e581d476c2a6a5.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/js/webflow.b1c0ecde.5e459e4dea7893f6.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\js\webflow.b1c0ecde.5e459e4dea7893f6.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/js/webflow.schunk.4a394eb5af8156f2.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\js\webflow.schunk.4a394eb5af8156f2.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/67d008397a0b5b0412a5e2cc/js/webflow.schunk.86182b68980630eb.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d008397a0b5b0412a5e2cc\js\webflow.schunk.86182b68980630eb.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d5f2c274731d1b6d3175dc_zoom-cover%402x-p-1080.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d5f2c274731d1b6d3175dc_zoom-cover@2x-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d5f2c274731d1b6d3175dc_zoom-cover%402x-p-500.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d5f2c274731d1b6d3175dc_zoom-cover@2x-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d5f2c274731d1b6d3175dc_zoom-cover%402x-p-800.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d5f2c274731d1b6d3175dc_zoom-cover@2x-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d5f2c274731d1b6d3175dc_zoom-cover%402x.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d5f2c274731d1b6d3175dc_zoom-cover@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d5f2f3e9944951697ffe96_logo-zoom%402x-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d5f2f3e9944951697ffe96_logo-zoom@2x-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d5f2f3e9944951697ffe96_logo-zoom%402x.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d5f2f3e9944951697ffe96_logo-zoom@2x.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dbd2c35aa014063a6200_jake_2-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dbd2c35aa014063a6200_jake_2-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dbd2c35aa014063a6200_jake_2-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dbd2c35aa014063a6200_jake_2-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dbd2c35aa014063a6200_jake_2.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dbd2c35aa014063a6200_jake_2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dce3b5e570ce9704f1a8_3-kevin-spain-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dce3b5e570ce9704f1a8_3-kevin-spain-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dce3b5e570ce9704f1a8_3-kevin-spain-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dce3b5e570ce9704f1a8_3-kevin-spain-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dce3b5e570ce9704f1a8_3-kevin-spain.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dce3b5e570ce9704f1a8_3-kevin-spain.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dd6c26e371eb1bf909d3_Santi_-_New-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dd6c26e371eb1bf909d3_Santi_-_New-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dd6c26e371eb1bf909d3_Santi_-_New-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dd6c26e371eb1bf909d3_Santi_-_New-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dd6c26e371eb1bf909d3_Santi_-_New.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dd6c26e371eb1bf909d3_Santi_-_New.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7de293da2cc73db5270f9_Joe_2-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7de293da2cc73db5270f9_Joe_2-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7de293da2cc73db5270f9_Joe_2-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7de293da2cc73db5270f9_Joe_2-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7de293da2cc73db5270f9_Joe_2.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7de293da2cc73db5270f9_Joe_2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7de60bb11fdb2f017de6c_Lotti_-_New-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7de60bb11fdb2f017de6c_Lotti_-_New-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7de60bb11fdb2f017de6c_Lotti_-_New-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7de60bb11fdb2f017de6c_Lotti_-_New-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7de60bb11fdb2f017de6c_Lotti_-_New.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7de60bb11fdb2f017de6c_Lotti_-_New.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dfb44bfa605e293269ed_rsz_1emergence_2020_0023_yaz_el-baba-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dfb44bfa605e293269ed_rsz_1emergence_2020_0023_yaz_el-baba-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dfb44bfa605e293269ed_rsz_1emergence_2020_0023_yaz_el-baba-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dfb44bfa605e293269ed_rsz_1emergence_2020_0023_yaz_el-baba-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7dfb44bfa605e293269ed_rsz_1emergence_2020_0023_yaz_el-baba.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7dfb44bfa605e293269ed_rsz_1emergence_2020_0023_yaz_el-baba.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f6fc7bb30d4ea0d3b202_-4560-_Julie_B.__34_of_217__2.5k___edit-01___1_-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f6fc7bb30d4ea0d3b202_-4560-_Julie_B.__34_of_217__2.5k___edit-01___1_-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f6fc7bb30d4ea0d3b202_-4560-_Julie_B.__34_of_217__2.5k___edit-01___1_-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f6fc7bb30d4ea0d3b202_-4560-_Julie_B.__34_of_217__2.5k___edit-01___1_-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f6fc7bb30d4ea0d3b202_-4560-_Julie_B.__34_of_217__2.5k___edit-01___1_.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f6fc7bb30d4ea0d3b202_-4560-_Julie_B.__34_of_217__2.5k___edit-01___1_.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f79382fc546599c0bfd6_BDS_Kristy_EmCap_20240606_0070_copy__1_-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f79382fc546599c0bfd6_BDS_Kristy_EmCap_20240606_0070_copy__1_-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f79382fc546599c0bfd6_BDS_Kristy_EmCap_20240606_0070_copy__1_-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f79382fc546599c0bfd6_BDS_Kristy_EmCap_20240606_0070_copy__1_-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f79382fc546599c0bfd6_BDS_Kristy_EmCap_20240606_0070_copy__1_-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f79382fc546599c0bfd6_BDS_Kristy_EmCap_20240606_0070_copy__1_-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f7d9c07f85b1eec94977_Tammy_-_New-2-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f7d9c07f85b1eec94977_Tammy_-_New-2-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f7d9c07f85b1eec94977_Tammy_-_New-2-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f7d9c07f85b1eec94977_Tammy_-_New-2-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f7d9c07f85b1eec94977_Tammy_-_New-2.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f7d9c07f85b1eec94977_Tammy_-_New-2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f832cd2dd16d03b19b53_BDS_David_Emergence_20250211_6158_copy_1-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f832cd2dd16d03b19b53_BDS_David_Emergence_20250211_6158_copy_1-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f832cd2dd16d03b19b53_BDS_David_Emergence_20250211_6158_copy_1-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f832cd2dd16d03b19b53_BDS_David_Emergence_20250211_6158_copy_1-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f832cd2dd16d03b19b53_BDS_David_Emergence_20250211_6158_copy_1-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f832cd2dd16d03b19b53_BDS_David_Emergence_20250211_6158_copy_1-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f88634ef55c784ec0462_jess_cohen-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f88634ef55c784ec0462_jess_cohen-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f88634ef55c784ec0462_jess_cohen-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f88634ef55c784ec0462_jess_cohen-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f88634ef55c784ec0462_jess_cohen-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f88634ef55c784ec0462_jess_cohen-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f907b4e862e8412281fb_BDS_Kyle_20230215_15927_2-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f907b4e862e8412281fb_BDS_Kyle_20230215_15927_2-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f907b4e862e8412281fb_BDS_Kyle_20230215_15927_2-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f907b4e862e8412281fb_BDS_Kyle_20230215_15927_2-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f907b4e862e8412281fb_BDS_Kyle_20230215_15927_2-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f907b4e862e8412281fb_BDS_Kyle_20230215_15927_2-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f944f12d2942bba2d9d9_Shun_Hagiwara_23C0779_Web__1_-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f944f12d2942bba2d9d9_Shun_Hagiwara_23C0779_Web__1_-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f944f12d2942bba2d9d9_Shun_Hagiwara_23C0779_Web__1_-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f944f12d2942bba2d9d9_Shun_Hagiwara_23C0779_Web__1_-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f944f12d2942bba2d9d9_Shun_Hagiwara_23C0779_Web__1_.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f944f12d2942bba2d9d9_Shun_Hagiwara_23C0779_Web__1_.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f972c1e3f6c44753a285_BDS_Rishub_20240528_0014_final__1_-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f972c1e3f6c44753a285_BDS_Rishub_20240528_0014_final__1_-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f972c1e3f6c44753a285_BDS_Rishub_20240528_0014_final__1_-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f972c1e3f6c44753a285_BDS_Rishub_20240528_0014_final__1_-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f972c1e3f6c44753a285_BDS_Rishub_20240528_0014_final__1_.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f972c1e3f6c44753a285_BDS_Rishub_20240528_0014_final__1_.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f9bb7d4048f35f5c91c0_1-jason-green-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f9bb7d4048f35f5c91c0_1-jason-green-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f9bb7d4048f35f5c91c0_1-jason-green-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f9bb7d4048f35f5c91c0_1-jason-green-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7f9bb7d4048f35f5c91c0_1-jason-green.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7f9bb7d4048f35f5c91c0_1-jason-green.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa00c04e8ddd1472f2a8_Brian_New-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa00c04e8ddd1472f2a8_Brian_New-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa00c04e8ddd1472f2a8_Brian_New-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa00c04e8ddd1472f2a8_Brian_New-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa00c04e8ddd1472f2a8_Brian_New.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa00c04e8ddd1472f2a8_Brian_New.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa3e34ef55c784ed94e3_cam-retouch-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa3e34ef55c784ed94e3_cam-retouch-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa3e34ef55c784ed94e3_cam-retouch-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa3e34ef55c784ed94e3_cam-retouch-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa3e34ef55c784ed94e3_cam-retouch.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa3e34ef55c784ed94e3_cam-retouch.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa7aeb9293afaf761a8d_gillian-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa7aeb9293afaf761a8d_gillian-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa7aeb9293afaf761a8d_gillian-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa7aeb9293afaf761a8d_gillian-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fa7aeb9293afaf761a8d_gillian-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fa7aeb9293afaf761a8d_gillian-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fb2b2b24736bd91b7cf8_wendy__2_-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fb2b2b24736bd91b7cf8_wendy__2_-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fb2b2b24736bd91b7cf8_wendy__2_-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fb2b2b24736bd91b7cf8_wendy__2_-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d7fb2b2b24736bd91b7cf8_wendy__2_.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d7fb2b2b24736bd91b7cf8_wendy__2_.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83815ed5f8e24ef42fb49_acree_ai-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83815ed5f8e24ef42fb49_acree_ai-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83815ed5f8e24ef42fb49_acree_ai.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83815ed5f8e24ef42fb49_acree_ai.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8398c80def8031221fa51_Adaptive-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8398c80def8031221fa51_Adaptive-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8398c80def8031221fa51_Adaptive.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8398c80def8031221fa51_Adaptive.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83a49eb59c82d9a1805c4_Asapp-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83a49eb59c82d9a1805c4_Asapp-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83a49eb59c82d9a1805c4_Asapp.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83a49eb59c82d9a1805c4_Asapp.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83c16c2cd647da57ca318_Assebled-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83c16c2cd647da57ca318_Assebled-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83c16c2cd647da57ca318_Assebled.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83c16c2cd647da57ca318_Assebled.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83c8747882a5f25315057_Audience plus-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83c8747882a5f25315057_Audience plus-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83c8747882a5f25315057_Audience plus.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83c8747882a5f25315057_Audience plus.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83cd71f146f2f69cdb759_Augmedix-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83cd71f146f2f69cdb759_Augmedix-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83cd71f146f2f69cdb759_Augmedix.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83cd71f146f2f69cdb759_Augmedix.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83d36a36df6c5a75b8ccd_Bill-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83d36a36df6c5a75b8ccd_Bill-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83d36a36df6c5a75b8ccd_Bill-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83d36a36df6c5a75b8ccd_Bill-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83d36a36df6c5a75b8ccd_Bill.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83d36a36df6c5a75b8ccd_Bill.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83d887ddb0d6b875eaee6_betterworks-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83d887ddb0d6b875eaee6_betterworks-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83d887ddb0d6b875eaee6_betterworks.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83d887ddb0d6b875eaee6_betterworks.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83dd11cea0442bd6250f8_Bland-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83dd11cea0442bd6250f8_Bland-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83dd11cea0442bd6250f8_Bland.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83dd11cea0442bd6250f8_Bland.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83e72a882dd2de702e771_Blend-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83e72a882dd2de702e771_Blend-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83e72a882dd2de702e771_Blend.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83e72a882dd2de702e771_Blend.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83eb8412b978545d03e14_box-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83eb8412b978545d03e14_box-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d83eb8412b978545d03e14_box.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d83eb8412b978545d03e14_box.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d845e8073ac8b560e1a378_Chainalasysis-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d845e8073ac8b560e1a378_Chainalasysis-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d845e8073ac8b560e1a378_Chainalasysis.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d845e8073ac8b560e1a378_Chainalasysis.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8487331832d3f1a8adec5_civitas learning-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8487331832d3f1a8adec5_civitas learning-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8487331832d3f1a8adec5_civitas learning.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8487331832d3f1a8adec5_civitas learning.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84958c34a2e6158e480eb_Class-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84958c34a2e6158e480eb_Class-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84958c34a2e6158e480eb_Class.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84958c34a2e6158e480eb_Class.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8499f66629ba38b620d89_Clearco-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8499f66629ba38b620d89_Clearco-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8499f66629ba38b620d89_Clearco-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8499f66629ba38b620d89_Clearco-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8499f66629ba38b620d89_Clearco.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8499f66629ba38b620d89_Clearco.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84aaebeb1927779adb005_Coalesce-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84aaebeb1927779adb005_Coalesce-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84aaebeb1927779adb005_Coalesce-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84aaebeb1927779adb005_Coalesce-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84aaebeb1927779adb005_Coalesce.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84aaebeb1927779adb005_Coalesce.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84b3d6ed727b7a0058c1b_Convex-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84b3d6ed727b7a0058c1b_Convex-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84b3d6ed727b7a0058c1b_Convex.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84b3d6ed727b7a0058c1b_Convex.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84b95a341124e803c2927_crunchbase-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84b95a341124e803c2927_crunchbase-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84b95a341124e803c2927_crunchbase.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84b95a341124e803c2927_crunchbase.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84bdbac1b8424fd80d4cc_das-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84bdbac1b8424fd80d4cc_das-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84bdbac1b8424fd80d4cc_das.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84bdbac1b8424fd80d4cc_das.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84c27f06383d82c88fa97_DEVai-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84c27f06383d82c88fa97_DEVai-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84c27f06383d82c88fa97_DEVai.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84c27f06383d82c88fa97_DEVai.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84c61f6c91f6f8a4ba8dc_Donuts-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84c61f6c91f6f8a4ba8dc_Donuts-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84c61f6c91f6f8a4ba8dc_Donuts.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84c61f6c91f6f8a4ba8dc_Donuts.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84cdfa6dfea5e02011939_doximity-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84cdfa6dfea5e02011939_doximity-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84cdfa6dfea5e02011939_doximity.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84cdfa6dfea5e02011939_doximity.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84d1e5b1e44ef31d9c4ab_Drishti-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84d1e5b1e44ef31d9c4ab_Drishti-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84d1e5b1e44ef31d9c4ab_Drishti-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84d1e5b1e44ef31d9c4ab_Drishti-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84d1e5b1e44ef31d9c4ab_Drishti.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84d1e5b1e44ef31d9c4ab_Drishti.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84d713e2a0dbbb203e3d2_Drivewyze-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84d713e2a0dbbb203e3d2_Drivewyze-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84d713e2a0dbbb203e3d2_Drivewyze.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84d713e2a0dbbb203e3d2_Drivewyze.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84daf5cf372c97c72665b_Drone_deploy-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84daf5cf372c97c72665b_Drone_deploy-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84daf5cf372c97c72665b_Drone_deploy.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84daf5cf372c97c72665b_Drone_deploy.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84e138c351cc10ab4f20f_Eversight-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84e138c351cc10ab4f20f_Eversight-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84e138c351cc10ab4f20f_Eversight.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84e138c351cc10ab4f20f_Eversight.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84e549a1293d895b0c493_Federato-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84e549a1293d895b0c493_Federato-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84e549a1293d895b0c493_Federato.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84e549a1293d895b0c493_Federato.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84e93c3962b829841742a_Fenbeitong-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84e93c3962b829841742a_Fenbeitong-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84e93c3962b829841742a_Fenbeitong.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84e93c3962b829841742a_Fenbeitong.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84f2f2960dd9d650d594f_Forma-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84f2f2960dd9d650d594f_Forma-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84f2f2960dd9d650d594f_Forma.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84f2f2960dd9d650d594f_Forma.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84f678095e3c61b39e77e_g2-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84f678095e3c61b39e77e_g2-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84f678095e3c61b39e77e_g2.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84f678095e3c61b39e77e_g2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84faa23ae827f313f9d40_Groundtruth-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84faa23ae827f313f9d40_Groundtruth-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84faa23ae827f313f9d40_Groundtruth.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84faa23ae827f313f9d40_Groundtruth.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84feb91399b3ae5e98d09_Guru-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84feb91399b3ae5e98d09_Guru-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d84feb91399b3ae5e98d09_Guru.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d84feb91399b3ae5e98d09_Guru.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d850287f070410e2f632c6_gusto-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d850287f070410e2f632c6_gusto-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d850287f070410e2f632c6_gusto.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d850287f070410e2f632c6_gusto.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d850a76ed727b7a00b3222_Hi Marley-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d850a76ed727b7a00b3222_Hi Marley-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d850a76ed727b7a00b3222_Hi Marley.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d850a76ed727b7a00b3222_Hi Marley.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d852922bd8fa1f364cdc14_High Alpha-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d852922bd8fa1f364cdc14_High Alpha-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d852922bd8fa1f364cdc14_High Alpha.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d852922bd8fa1f364cdc14_High Alpha.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d852d1ff45c05cfc2efaa5_Impartner-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d852d1ff45c05cfc2efaa5_Impartner-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d852d1ff45c05cfc2efaa5_Impartner.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d852d1ff45c05cfc2efaa5_Impartner.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d85308fd56853701faac75_InsideView-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d85308fd56853701faac75_InsideView-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d85308fd56853701faac75_InsideView.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d85308fd56853701faac75_InsideView.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8534139e2bd26fbc4290f_Insightly-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8534139e2bd26fbc4290f_Insightly-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8534139e2bd26fbc4290f_Insightly.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8534139e2bd26fbc4290f_Insightly.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d853e366629ba38b6c3337_irisvr-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d853e366629ba38b6c3337_irisvr-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d853e366629ba38b6c3337_irisvr-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d853e366629ba38b6c3337_irisvr-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d853e366629ba38b6c3337_irisvr.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d853e366629ba38b6c3337_irisvr.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d854298222547fa0755ee1_Ironclad-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d854298222547fa0755ee1_Ironclad-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d854298222547fa0755ee1_Ironclad.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d854298222547fa0755ee1_Ironclad.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d854b739e2bd26fbc57f2f_Justifi-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d854b739e2bd26fbc57f2f_Justifi-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d854b739e2bd26fbc57f2f_Justifi-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d854b739e2bd26fbc57f2f_Justifi-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d854b739e2bd26fbc57f2f_Justifi.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d854b739e2bd26fbc57f2f_Justifi.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d85505beb1927779b8227c_Logik-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d85505beb1927779b8227c_Logik-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d85505beb1927779b8227c_Logik.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d85505beb1927779b8227c_Logik.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d855c3e400bbf22aad0cdb_maze-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d855c3e400bbf22aad0cdb_maze-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d855c3e400bbf22aad0cdb_maze.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d855c3e400bbf22aad0cdb_maze.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d855fd18ea2d4960e9f24d_Mechanical-1-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d855fd18ea2d4960e9f24d_Mechanical-1-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d855fd18ea2d4960e9f24d_Mechanical-1.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d855fd18ea2d4960e9f24d_Mechanical-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8563337182835ecd55437_MedeAnalytics-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8563337182835ecd55437_MedeAnalytics-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8563337182835ecd55437_MedeAnalytics.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8563337182835ecd55437_MedeAnalytics.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d856e1b205095205fe08e1_mercor-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d856e1b205095205fe08e1_mercor-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d856e1b205095205fe08e1_mercor-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d856e1b205095205fe08e1_mercor-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d856e1b205095205fe08e1_mercor.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d856e1b205095205fe08e1_mercor.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d85734917dc3c59b872045_Method-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d85734917dc3c59b872045_Method-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d85734917dc3c59b872045_Method.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d85734917dc3c59b872045_Method.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d857b6adc8a3254e0fb4b7_Mezmo-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d857b6adc8a3254e0fb4b7_Mezmo-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d857b6adc8a3254e0fb4b7_Mezmo.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d857b6adc8a3254e0fb4b7_Mezmo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8582670bbea9ea58ac5ed_mya systems-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8582670bbea9ea58ac5ed_mya systems-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8582670bbea9ea58ac5ed_mya systems.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8582670bbea9ea58ac5ed_mya systems.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8587a0aa4f68bc689e3eb_Oyster-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8587a0aa4f68bc689e3eb_Oyster-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8587a0aa4f68bc689e3eb_Oyster.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8587a0aa4f68bc689e3eb_Oyster.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d858c38c6b4b6cf685b332_project 44-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d858c38c6b4b6cf685b332_project 44-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d858c38c6b4b6cf685b332_project 44.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d858c38c6b4b6cf685b332_project 44.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d875395ee4ed548865f4b6_regal-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d875395ee4ed548865f4b6_regal-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d875395ee4ed548865f4b6_regal.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d875395ee4ed548865f4b6_regal.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87591930020da58c9d12b_Restorando-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87591930020da58c9d12b_Restorando-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87591930020da58c9d12b_Restorando.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87591930020da58c9d12b_Restorando.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8769282380a92902f9013_Saleo-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8769282380a92902f9013_Saleo-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8769282380a92902f9013_Saleo.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8769282380a92902f9013_Saleo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d877bc3594d0fe4558f000_Salesforce-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d877bc3594d0fe4558f000_Salesforce-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d877bc3594d0fe4558f000_Salesforce.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d877bc3594d0fe4558f000_Salesforce.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87810957f937303673a96_salesoft-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87810957f937303673a96_salesoft-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87810957f937303673a96_salesoft.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87810957f937303673a96_salesoft.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d878a07cd3e6df93373e4f_Sendbird-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d878a07cd3e6df93373e4f_Sendbird-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d878a07cd3e6df93373e4f_Sendbird-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d878a07cd3e6df93373e4f_Sendbird-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d878a07cd3e6df93373e4f_Sendbird.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d878a07cd3e6df93373e4f_Sendbird.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d878e4ec0030ba9a7e70f1_ServiceMax-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d878e4ec0030ba9a7e70f1_ServiceMax-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d878e4ec0030ba9a7e70f1_ServiceMax.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d878e4ec0030ba9a7e70f1_ServiceMax.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8797d3640d306249092cb_Simple legal-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8797d3640d306249092cb_Simple legal-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8797d3640d306249092cb_Simple legal-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8797d3640d306249092cb_Simple legal-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8797d3640d306249092cb_Simple legal.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8797d3640d306249092cb_Simple legal.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d879e87606024118c132ab_Textio-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d879e87606024118c132ab_Textio-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d879e87606024118c132ab_Textio.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d879e87606024118c132ab_Textio.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87a4fe365e79af821f3fd_threeflow-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87a4fe365e79af821f3fd_threeflow-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87a4fe365e79af821f3fd_threeflow-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87a4fe365e79af821f3fd_threeflow-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87a4fe365e79af821f3fd_threeflow.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87a4fe365e79af821f3fd_threeflow.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87af2266edca0defccd2d_Tophat-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87af2266edca0defccd2d_Tophat-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87af2266edca0defccd2d_Tophat.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87af2266edca0defccd2d_Tophat.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87b367d547bad4cad8940_Total Expert-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87b367d547bad4cad8940_Total Expert-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87b367d547bad4cad8940_Total Expert.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87b367d547bad4cad8940_Total Expert.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87bbaa7748700619e5277_Unify-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87bbaa7748700619e5277_Unify-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87bbaa7748700619e5277_Unify-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87bbaa7748700619e5277_Unify-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87bbaa7748700619e5277_Unify.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87bbaa7748700619e5277_Unify.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87c0672b9a4621539a3ee_UpKeep-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87c0672b9a4621539a3ee_UpKeep-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87c0672b9a4621539a3ee_UpKeep.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87c0672b9a4621539a3ee_UpKeep.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87c4d05441112aa34b677_veeva-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87c4d05441112aa34b677_veeva-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87c4d05441112aa34b677_veeva.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87c4d05441112aa34b677_veeva.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87cb1d3aee4356f82f5ea_Viglink-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87cb1d3aee4356f82f5ea_Viglink-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87cb1d3aee4356f82f5ea_Viglink-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87cb1d3aee4356f82f5ea_Viglink-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87cb1d3aee4356f82f5ea_Viglink.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87cb1d3aee4356f82f5ea_Viglink.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87ce77d547bad4caf321f_Vymo-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87ce77d547bad4caf321f_Vymo-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87ce77d547bad4caf321f_Vymo-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87ce77d547bad4caf321f_Vymo-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87ce77d547bad4caf321f_Vymo.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87ce77d547bad4caf321f_Vymo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87d2c8d1c46543d435f7a_Weltok-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87d2c8d1c46543d435f7a_Weltok-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87d2c8d1c46543d435f7a_Weltok-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87d2c8d1c46543d435f7a_Weltok-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87d2c8d1c46543d435f7a_Weltok.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87d2c8d1c46543d435f7a_Weltok.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87d68da52e900569420ee_Whistic-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87d68da52e900569420ee_Whistic-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87d68da52e900569420ee_Whistic.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87d68da52e900569420ee_Whistic.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87f7669cd6757773b00a8_togethe_ai-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87f7669cd6757773b00a8_togethe_ai-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d87f7669cd6757773b00a8_togethe_ai.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d87f7669cd6757773b00a8_togethe_ai.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8842d9098fa8bc82e1e68_image 16-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8842d9098fa8bc82e1e68_image 16-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8842d9098fa8bc82e1e68_image 16-p-1600.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8842d9098fa8bc82e1e68_image 16-p-1600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8842d9098fa8bc82e1e68_image 16-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8842d9098fa8bc82e1e68_image 16-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8842d9098fa8bc82e1e68_image 16-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8842d9098fa8bc82e1e68_image 16-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d8842d9098fa8bc82e1e68_image 16.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d8842d9098fa8bc82e1e68_image 16.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d91c97b0ba1c857fe9aae9_bolt-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d91c97b0ba1c857fe9aae9_bolt-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d91c97b0ba1c857fe9aae9_bolt.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d91c97b0ba1c857fe9aae9_bolt.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d93211f523d4ddd4812159_Screenshot 2025-03-18 at 09.41.43 1-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d93211f523d4ddd4812159_Screenshot 2025-03-18 at 09.41.43 1-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d934841a3b16c3bb114a38_unnamed (3).jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d934841a3b16c3bb114a38_unnamed (3).jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d93497d3e127e1f4dd0ad5_unnamed-1.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d93497d3e127e1f4dd0ad5_unnamed-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d934c4a1cf6d228beb9e3a_New_Grid.jpg
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d934c4a1cf6d228beb9e3a_New_Grid.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d94198e9c5e0a81684fece_The Death of the Big 6-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d94198e9c5e0a81684fece_The Death of the Big 6-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d941c9909b707169d96b3e_The Death of the Big 7-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d941c9909b707169d96b3e_The Death of the Big 7-min-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d941c9909b707169d96b3e_The Death of the Big 7-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d941c9909b707169d96b3e_The Death of the Big 7-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d941c9909b707169d96b3e_The Death of the Big 7-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d941c9909b707169d96b3e_The Death of the Big 7-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d941c9909b707169d96b3e_The Death of the Big 7-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d941c9909b707169d96b3e_The Death of the Big 7-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d944677d0e2f2b706851ab_Group 2147207164 (1).png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d944677d0e2f2b706851ab_Group 2147207164 (1).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946653e41828456d91df2_The Death of the Big 8-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946653e41828456d91df2_The Death of the Big 8-min-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946653e41828456d91df2_The Death of the Big 8-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946653e41828456d91df2_The Death of the Big 8-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946653e41828456d91df2_The Death of the Big 8-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946653e41828456d91df2_The Death of the Big 8-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946653e41828456d91df2_The Death of the Big 8-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946653e41828456d91df2_The Death of the Big 8-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d94669efbad79809e5b8ba_Preventing The AI Plateau-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d94669efbad79809e5b8ba_Preventing The AI Plateau-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946b27df073b3fef85582_01emergence-capital_innovation-s-curves.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946b27df073b3fef85582_01emergence-capital_innovation-s-curves.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946cc5c6e8da68c798c17_02emergence-capital_AI-ARPU.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946cc5c6e8da68c798c17_02emergence-capital_AI-ARPU.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946dec00ab994ce4769f7_03emergence-capital_genai.public-data-harvesting.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946dec00ab994ce4769f7_03emergence-capital_genai.public-data-harvesting.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d946f2c7765f6c5f800956_04emergence-capital_solving-the-ai-plateau.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d946f2c7765f6c5f800956_04emergence-capital_solving-the-ai-plateau.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d9564f040f20fa220cf07c_beyond (2)-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d9564f040f20fa220cf07c_beyond (2)-min-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d9564f040f20fa220cf07c_beyond (2)-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d9564f040f20fa220cf07c_beyond (2)-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d9564f040f20fa220cf07c_beyond (2)-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d9564f040f20fa220cf07c_beyond (2)-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d9564f040f20fa220cf07c_beyond (2)-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d9564f040f20fa220cf07c_beyond (2)-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d956539b16a552c7220605_Beyond Benchmarks 2025-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d956539b16a552c7220605_Beyond Benchmarks 2025-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d956ace533b18ad25c68fc_Beyond_Benchmarks_2024_Cover_Page.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d956ace533b18ad25c68fc_Beyond_Benchmarks_2024_Cover_Page.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d959cb410a18c2cf80ea44_10B-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d959cb410a18c2cf80ea44_10B-min-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d959cb410a18c2cf80ea44_10B-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d959cb410a18c2cf80ea44_10B-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d959cb410a18c2cf80ea44_10B-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d959cb410a18c2cf80ea44_10B-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d959cb410a18c2cf80ea44_10B-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d959cb410a18c2cf80ea44_10B-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d959cf1ef905b78e9f6f53_10B-1-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d959cf1ef905b78e9f6f53_10B-1-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95aeb16f3d811c3e28860_Founder-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95aeb16f3d811c3e28860_Founder-min-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95aeb16f3d811c3e28860_Founder-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95aeb16f3d811c3e28860_Founder-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95aeb16f3d811c3e28860_Founder-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95aeb16f3d811c3e28860_Founder-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95aeb16f3d811c3e28860_Founder-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95aeb16f3d811c3e28860_Founder-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95af3db1159e0f1a8003f_Founder AI Framework-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95af3db1159e0f1a8003f_Founder AI Framework-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95b2de2e5c573c7ac956d_beware_mirage_PMF.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95b2de2e5c573c7ac956d_beware_mirage_PMF.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95b4e485722347820948a_its_the_demo_stupid.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95b4e485722347820948a_its_the_demo_stupid.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95c70614809dbf44a35e6_AI infra-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95c70614809dbf44a35e6_AI infra-min-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95c70614809dbf44a35e6_AI infra-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95c70614809dbf44a35e6_AI infra-min-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95c70614809dbf44a35e6_AI infra-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95c70614809dbf44a35e6_AI infra-min-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95c70614809dbf44a35e6_AI infra-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95c70614809dbf44a35e6_AI infra-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95c82a7a3b9ae7a9618f4_AI Infra.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95c82a7a3b9ae7a9618f4_AI Infra.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95cb7e15b39770b9429f2_updated_website_image.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95cb7e15b39770b9429f2_updated_website_image.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95e6c5e96097a8eaae05e_Screenshot_2023-07-13_at_7.31.47_PM.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95e6c5e96097a8eaae05e_Screenshot_2023-07-13_at_7.31.47_PM.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95ec0787a6819ae4ebee0_Founder-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95ec0787a6819ae4ebee0_Founder-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95ec0787a6819ae4ebee0_Founder-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95ec0787a6819ae4ebee0_Founder-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95ec0787a6819ae4ebee0_Founder-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95ec0787a6819ae4ebee0_Founder-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95ec0787a6819ae4ebee0_Founder.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95ec0787a6819ae4ebee0_Founder.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67d95ec53571145385782415_Founder AI Framework.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67d95ec53571145385782415_Founder AI Framework.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67da8d826f07c8732f80cc0f_state 6.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67da8d826f07c8732f80cc0f_state 6.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67dad2fdc238a51c2324d3a2_state 8-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67dad2fdc238a51c2324d3a2_state 8-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67dad2fdc238a51c2324d3a2_state 8-p-1600.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67dad2fdc238a51c2324d3a2_state 8-p-1600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67dad2fdc238a51c2324d3a2_state 8-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67dad2fdc238a51c2324d3a2_state 8-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67dad2fdc238a51c2324d3a2_state 8-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67dad2fdc238a51c2324d3a2_state 8-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67dad2fdc238a51c2324d3a2_state 8.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67dad2fdc238a51c2324d3a2_state 8.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67eab7023fe6e61fb4f7cbef_maggie hott-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67eab7023fe6e61fb4f7cbef_maggie hott-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67eab7023fe6e61fb4f7cbef_maggie hott-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67eab7023fe6e61fb4f7cbef_maggie hott-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67eab7023fe6e61fb4f7cbef_maggie hott-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67eab7023fe6e61fb4f7cbef_maggie hott-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67eab7023fe6e61fb4f7cbef_maggie hott.PNG
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67eab7023fe6e61fb4f7cbef_maggie hott.PNG
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67effae3462500194df7c649_yammer-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67effae3462500194df7c649_yammer-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67effae3462500194df7c649_yammer-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67effae3462500194df7c649_yammer-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67effae3462500194df7c649_yammer.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67effae3462500194df7c649_yammer.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f220f5a1aa4919edf65f09_67ee83a7ba8eb9c4ae50ad2a_image1 (2)-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f220f5a1aa4919edf65f09_67ee83a7ba8eb9c4ae50ad2a_image1 (2)-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f220f5a1aa4919edf65f09_67ee83a7ba8eb9c4ae50ad2a_image1 (2)-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f220f5a1aa4919edf65f09_67ee83a7ba8eb9c4ae50ad2a_image1 (2)-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f220f5a1aa4919edf65f09_67ee83a7ba8eb9c4ae50ad2a_image1 (2).png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f220f5a1aa4919edf65f09_67ee83a7ba8eb9c4ae50ad2a_image1 (2).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2e66a32778f33e0a31a35_Screen_Shot_2022-06-08_at_3.09.16_PM.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2e66a32778f33e0a31a35_Screen_Shot_2022-06-08_at_3.09.16_PM.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2e66a394c00c0b11523a7_Screen_Shot_2022-06-08_at_2.46.27_PM.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2e66a394c00c0b11523a7_Screen_Shot_2022-06-08_at_2.46.27_PM.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2e66a6e91cb7c991114a0_Final.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2e66a6e91cb7c991114a0_Final.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2e66a973e5fa8ac1937c3_HRAP.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2e66a973e5fa8ac1937c3_HRAP.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2e66af44c9f950cc57dae_Scenarios-table-v2.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2e66af44c9f950cc57dae_Scenarios-table-v2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2f1aa00b7a0c2b3a9b554_Final-p-1080.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2f1aa00b7a0c2b3a9b554_Final-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2f1aa00b7a0c2b3a9b554_Final-p-500.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2f1aa00b7a0c2b3a9b554_Final-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2f1aa00b7a0c2b3a9b554_Final-p-800.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2f1aa00b7a0c2b3a9b554_Final-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2f1aa00b7a0c2b3a9b554_Final.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2f1aa00b7a0c2b3a9b554_Final.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/67f2f3b600b7a0c2b3ab381e_economic.downturn.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\67f2f3b600b7a0c2b3ab381e_economic.downturn.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680955c59b95c5581c274fae_Screenshot_2023-08-08_at_2.04.30_PM.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680955c59b95c5581c274fae_Screenshot_2023-08-08_at_2.04.30_PM.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680955e47c7eeb2c9b294253_ai_2.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680955e47c7eeb2c9b294253_ai_2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680956284532bb2b41d67de0_ai_3.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680956284532bb2b41d67de0_ai_3.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68095646a8f0b3f9ece6756a_ai_4.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68095646a8f0b3f9ece6756a_ai_4.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680956657c7eeb2c9b29cf76_ai_5.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680956657c7eeb2c9b29cf76_ai_5.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68095684f64901ca0c44f3ff_ai_6.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68095684f64901ca0c44f3ff_ai_6.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680956ad3b5ed64f4df03b31_ai_7.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680956ad3b5ed64f4df03b31_ai_7.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680956cd47ddbde7d5d350f1_ai_8.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680956cd47ddbde7d5d350f1_ai_8.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68095984ca391ecbbc6cce72_AI UX Decisions-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68095984ca391ecbbc6cce72_AI UX Decisions-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68095989b7a8da6143dd010b_AI UX Decisions-1-min.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68095989b7a8da6143dd010b_AI UX Decisions-1-min.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680961fac1c76452d6e0f6bb_Lotame.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680961fac1c76452d6e0f6bb_Lotame.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68096882aadc34cef89099c9_airkit.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68096882aadc34cef89099c9_airkit.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68096a8277945eeadf7a2f8e_chorus.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68096a8277945eeadf7a2f8e_chorus.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68096c1699cd2f626b5259ec_openpath (1).png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68096c1699cd2f626b5259ec_openpath (1).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/68096d55727814e3ccbcab6f_replicon (1).png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\68096d55727814e3ccbcab6f_replicon (1).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680970b28b585e50fa459a87_sound.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680970b28b585e50fa459a87_sound.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/680971a46320af85c6ac01b6_xapo.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\680971a46320af85c6ac01b6_xapo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d0b820a9e389b3a4bb52a1/6809723aa845bf721b07a577_zipline.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d0b820a9e389b3a4bb52a1\6809723aa845bf721b07a577_zipline.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67d36caecd06346391464eee/67d36caecd06346391464f3e_kevin-spain%402x.png
+File Name: C:\Downloaded Web Sites\www.emcap.com\67d36caecd06346391464eee\67d36caecd06346391464f3e_kevin-spain@2x.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\ajax\libs\gsap\3.12.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\ajax\libs\gsap\3.12.5\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\www.emcap.com\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67d008397a0b5b0412a5e2cc
+File Name: C:\Downloaded Web Sites\www.emcap.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\www.emcap.com\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.emcap.com\masonry-layout@4.2.2\dist\masonry.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://www.emcap.com/
+File Name: C:\Downloaded Web Sites\www.emcap.com\index.htm
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/ai-s-curve-plateau-proprietary-business-data-breakthrough
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\ai-s-curve-plateau-proprietary-business-data-breakthrough.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/announcing-emergence-vii-a-1-billion-commitment-to-building-iconic-b2b-companies
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\announcing-emergence-vii-a-1-billion-commitment-to-building-iconic-b2b-companies.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/beyond-benchmarks
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\beyond-benchmarks.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/congrats-to-logik-ai-on-completing-the-cpq-hat-trick
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\congrats-to-logik-ai-on-completing-the-cpq-hat-trick.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/founder-framework-identifying-ai-opportunities-in-financial-services
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\founder-framework-identifying-ai-opportunities-in-financial-services.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/how-to-spot-a-usd10b-company-before-anyone-else
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\how-to-spot-a-usd10b-company-before-anyone-else.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/lessons-from-investing-2-bn-and-returning-8-bn
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\lessons-from-investing-2-bn-and-returning-8-bn.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/meet-the-new-ai-infrastructure-powering-the-next-gen-of-ai-applications
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\meet-the-new-ai-infrastructure-powering-the-next-gen-of-ai-applications.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/playbook-for-retaining-customers-in-an-economic-downturn
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\playbook-for-retaining-customers-in-an-economic-downturn.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/the-ai-enabled-services-playbook
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\the-ai-enabled-services-playbook.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/the-death-of-deloitte-ai-enabled-services-are-opening-a-whole-new-market
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\the-death-of-deloitte-ai-enabled-services-are-opening-a-whole-new-market.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/article/your-success-with-generative-ai-may-come-down-to-these-ux-decisions
+File Name: C:\Downloaded Web Sites\www.emcap.com\article\your-success-with-generative-ai-may-come-down-to-these-ux-decisions.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/brian-jacobs
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\brian-jacobs.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/camille-ricketts
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\camille-ricketts.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/david-dworsky
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\david-dworsky.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/gillian-heltai
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\gillian-heltai.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/gordon-ritter
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\gordon-ritter.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/jake-saper
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\jake-saper.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/jason-green
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\jason-green.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/jessica-cohen
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\jessica-cohen.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/joe-floyd
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\joe-floyd.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/julie-bell
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\julie-bell.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/kevin-spain
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\kevin-spain.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/kristy-landers
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\kristy-landers.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/kyle-murphy
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\kyle-murphy.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/lotti-siniscalco
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\lotti-siniscalco.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/maggie-hott
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\maggie-hott.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/rishub-nahar
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\rishub-nahar.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/santi-subotovsky
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\santi-subotovsky.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/shun-hagiwara
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\shun-hagiwara.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/tammy-han
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\tammy-han.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/wendy-lu
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\wendy-lu.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/people/yaz-el-baba
+File Name: C:\Downloaded Web Sites\www.emcap.com\people\yaz-el-baba.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/adaptive
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\adaptive.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/airkit
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\airkit.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/arcee-ai
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\arcee-ai.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/asapp
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\asapp.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/assembled
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\assembled.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/audience-plus
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\audience-plus.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/augmedix
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\augmedix.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/betterworks
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\betterworks.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/bill
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\bill.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/bland
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\bland.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/blend
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\blend.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/bolt
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\bolt.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/box
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\box.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/chainalysis
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\chainalysis.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/chorus
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\chorus.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/civitas-learning
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\civitas-learning.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/class
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\class.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/clearco
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\clearco.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/coalesce
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\coalesce.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/convex
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\convex.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/crunchbase
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\crunchbase.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/das-technology
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\das-technology.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/devai
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\devai.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/donuts
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\donuts.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/doximity
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\doximity.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/drishti
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\drishti.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/drivewyze
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\drivewyze.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/dronedeploy
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\dronedeploy.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/eversight
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\eversight.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/federato
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\federato.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/fenbeitong
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\fenbeitong.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/forma
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\forma.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/g2
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\g2.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/groundtruth
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\groundtruth.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/guru
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\guru.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/gusto
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\gusto.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/hi-marley
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\hi-marley.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/high-alpha
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\high-alpha.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/impartner
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\impartner.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/insideview
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\insideview.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/insightly
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\insightly.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/irisvr
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\irisvr.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/ironclad
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\ironclad.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/justifi
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\justifi.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/logik-io
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\logik-io.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/lotame
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\lotame.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/maze
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\maze.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/mechanical-orchard
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\mechanical-orchard.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/medeanalytics
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\medeanalytics.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/mercor
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\mercor.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/method
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\method.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/mezmo
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\mezmo.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/mya-systems
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\mya-systems.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/openpath
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\openpath.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/oyster
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\oyster.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/project44
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\project44.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/regal
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\regal.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/replicon
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\replicon.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/restorando
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\restorando.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/saleo
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\saleo.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/salesforce
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\salesforce.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/salesloft
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\salesloft.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/sendbird
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\sendbird.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/servicemax
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\servicemax.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/simplelegal
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\simplelegal.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/soundcommerce
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\soundcommerce.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/textio
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\textio.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/threeflow
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\threeflow.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/together-ai
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\together-ai.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/top-hat
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\top-hat.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/total-expert
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\total-expert.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/unify
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\unify.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/upkeep
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\upkeep.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/veeva
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\veeva.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/viglink
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\viglink.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/vymo
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\vymo.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/welltok
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\welltok.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/whistic
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\whistic.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/xapo
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\xapo.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/yammer
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\yammer.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/zipline
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\zipline.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/portfolio/zoom
+File Name: C:\Downloaded Web Sites\www.emcap.com\portfolio\zoom.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/privacy
+File Name: C:\Downloaded Web Sites\www.emcap.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/team
+File Name: C:\Downloaded Web Sites\www.emcap.com\team.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/terms
+File Name: C:\Downloaded Web Sites\www.emcap.com\terms.html
+Content Type: text/html
+
+Uri: https://www.emcap.com/thoughts
+File Name: C:\Downloaded Web Sites\www.emcap.com\thoughts.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-TRZFBQXV6F
+File Name: C:\Downloaded Web Sites\www.emcap.com\gtag\js
+Content Type: application/javascript
+
